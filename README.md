@@ -2,7 +2,7 @@ A stylish Bash script that uses the [SecurityTrails API](https://securitytrails.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/killua-subdomain-finder.git
+git clone [https://github.com/YOUR_USERNAME/killua-subdomain-finder.git](https://github.com/b1mo-10/subdomain-security-trails.git)
 
 # Change into the directory
 cd killua-subdomain-finder
