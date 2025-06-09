@@ -5,6 +5,5 @@ A stylish Bash script that uses the [SecurityTrails API](https://securitytrails.
 git clone https://github.com/b1mo-10/subdomain-security-trails.git
 # Change into the directory
 cd killua-subdomain-finder
-
 # Make the script executable
 chmod +x hack.sh
