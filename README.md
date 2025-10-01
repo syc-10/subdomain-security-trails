@@ -2,5 +2,5 @@ A stylish Bash script that uses the [SecurityTrails API](https://securitytrails.
 
 ```bash
 -git clone https://github.com/syc-10/subdomain-security-trails.git
--cd killua-subdomain-finder
+-cd subdomain-security-trails
 -chmod +x hack.sh
